@@ -70,7 +70,7 @@ The Jupyter Notebooks used in this investigation are available in the `notebooks
 
 If you would like to contribute to this investigation, please follow these steps:
 
-1. Fork the repository using `git clone `
+1. Fork the repository using `git clone https://github.com/horacio-gaido/dimensiones_calidad_de_vida.git `
 2. Create a new branch (`git checkout -b feature/yourfeature`)
 3. Commit your changes (`git commit -am 'Added new feature'`)
 4. Push to the branch (`git push origin feature/yourfeature`)
