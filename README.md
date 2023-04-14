@@ -78,4 +78,4 @@ If you would like to contribute to this investigation, please follow these steps
 
 ## License
 
-This investigation is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+This investigation is licensed under the MIT License. See the [LICENSE.md](https://github.com/horacio-gaido/dimensions_of_quality_of_life/blob/main/LICENCE.md) file for details.
